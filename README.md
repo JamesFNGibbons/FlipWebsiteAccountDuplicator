@@ -1,4 +1,4 @@
-# FlipWebsiteAccountDuplicator
+# Flip Website Account Duplicator
 Quick tool to duplicate website accounts
 
 
